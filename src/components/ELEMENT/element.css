@@ -1,0 +1,16 @@
+.elem {
+    /* height: 100px; */
+    width: 300px;
+    padding: 0 1.5rem;
+    outline-offset: 2px;
+    border: 1px solid #e5e7eb;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style-type: circle;
+    color: #fff;
+}
